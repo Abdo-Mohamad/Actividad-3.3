@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="libros.xsl"?>
+<llibreria>
+
+    <llibre especial="Descatalogado">
+        <titol>Meditaciones</titol>
+        <autor>Marco Aurelio</autor>
+        <editor>Debate</editor>
+        <isbn>978-8483068618</isbn>
+        <preu>50.06</preu>
+        <pagines>278</pagines>
+    </llibre>
+    <llibre>
+        <titol>Días de lectura</titol>
+        <autor>Marcel Proust</autor>
+        <editor>Conecta</editor>
+        <isbn>979-8483015277</isbn>
+        <preu>13.00</preu>
+        <pagines>220</pagines>
+    </llibre>
+    <llibre especial="Descatalogado">
+        <titol>Contra el fanatismo</titol>
+        <autor>Voltaire</autor>
+        <editor>Planeta</editor>
+        <isbn>978-1539827474</isbn>
+        <preu>12.00</preu>
+        <pagines>240</pagines>
+    </llibre>
+    <llibre>
+        <titol>Tao Te Ching</titol>
+        <autor>Lao Tsé</autor>
+        <editor>Mandala </editor>
+        <isbn>978-8488769787</isbn>
+        <preu>9.00</preu>
+        <pagines>306</pagines>
+    </llibre>
+    <llibre>
+        <titol>El espíritu de las leyes</titol>
+        <autor>Montesquieu</autor>
+        <editor>CreateSpace </editor>
+        <isbn>978-1530780983</isbn>
+        <preu>10.00</preu>
+        <pagines>230</pagines>
+    </llibre>
+    <llibre especial="Descatalogado">
+        <titol>Sobre la selección natural</titol>
+        <autor>Charles Darwin</autor>
+        <editor>CreateSpace</editor>
+        <isbn>978-1539827474</isbn>
+        <preu>8.00</preu>
+        <pagines>354</pagines>
+    </llibre>
+    <llibre>
+        <titol>En busca del tiempo perdido</titol>
+        <autor>Marcel Proust</autor>
+        <editor>Alianza Editorial</editor>
+        <isbn>978-8491045212</isbn>
+        <preu>53.00</preu>
+        <pagines>2744</pagines>
+    </llibre>
+</llibreria>
