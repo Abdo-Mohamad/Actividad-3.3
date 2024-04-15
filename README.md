@@ -1,5 +1,6 @@
 # Actividad 3.3
 A partir de la solución del moodle de la actividad 3.1 (último ejercicio), después de añadir este libro al .xml:
+<br/>
     <llibre>
         <titol>En busca del tiempo perdido</titol>
         <autor>Marcel Proust</autor>
